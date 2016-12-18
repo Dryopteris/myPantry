@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Pantry</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">This is the %1$2s section</string>
+</resources>
